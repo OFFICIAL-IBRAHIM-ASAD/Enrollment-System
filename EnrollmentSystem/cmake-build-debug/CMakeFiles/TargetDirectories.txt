@@ -1,0 +1,3 @@
+C:/Users/ibrah/CLionProjects/EnrollmentSystem/cmake-build-debug/CMakeFiles/EnrollmentSystem.dir
+C:/Users/ibrah/CLionProjects/EnrollmentSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ibrah/CLionProjects/EnrollmentSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
